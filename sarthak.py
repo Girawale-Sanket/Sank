@@ -1,1 +1,1 @@
-hii sarthak
+print("sarthak")
