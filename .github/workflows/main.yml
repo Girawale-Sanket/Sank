@@ -20,6 +20,10 @@ jobs:
         with:
           python-version: '3.x'
           
-      - name: Run Python script
+      - name: Run Python script Sanket
         run: python hello.py
+      - name: Run Python script tejas
+        run: python tejas.py
+      - name: Run Python script sarthak
+        run: python sarthak.py
       
